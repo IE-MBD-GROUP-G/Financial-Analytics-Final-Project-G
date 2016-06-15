@@ -1,0 +1,14 @@
+Task 1: 
+  A.1) Automated Data Cleaning.
+      NaN, 
+      Missing, 
+      Outliers  & Out of the range,
+      Unreliable values, 
+Task 2: 
+  A.4.1) Automated Dummy Creation and Transformation with Automated Supervised Binning. A.4.2) Automated WoE Calculation, binning and Transformation with Automated Supervised Binning. A.4.3) Automated Interpolation transformation.
+Task 3: 
+  A.5) Automated variables and ratios creation using Principal Component and Decision Trees. A.6) Automated method comparison and choosing  A.7) Characteristics/Feature selection - Stepwise and Genetic Algorithm A.8) Parameter estimation for Logistic Regression with Genetic Algorithm. 
+Task 4: 
+  H.1) Human assisted Data Cleaning; H.2) Human assisted Data preprocessing and transformation for modelling; H.3) Human assisted (Supervised or not) Binning.
+Task 5: 
+H.4) Human assisted variables and ratios creation. H.5) Human assisted method picking. H.6) Human assisted feature selection. 
